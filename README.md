@@ -1,2 +1,2 @@
-# Handsway-ML-Models
+# Handsway ML Models
 Repo containing rejected machine learning models that I made until I got it right for the Handsway App that I made. Handsway is a one-of-a-kind, completely free application (and will always remain free) which can be used to translate ASL to English text in real time using your in built camera! It was developed to use the power of modern technology to make the world more accessible. Learn more at www.renee.app/handsway. 
